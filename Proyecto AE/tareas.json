@@ -1,0 +1,153 @@
+{
+    "1": [
+        {
+            "id": "1",
+            "nombre": "Tarea A1",
+            "descripcion": "Descripci\u00c3\u00b3n de Tarea A1",
+            "fecha_inicio": "2023-01-01",
+            "fecha_vencimiento": "2023-01-15",
+            "estado_actual": "En progreso",
+            "porcentaje": 50,
+            "subtareas": [
+                {
+                    "id": "1.1",
+                    "nombre": "Subtarea A1.1",
+                    "descripcion": "Descripci\u00c3\u00b3n de Subtarea A1.1",
+                    "fecha_inicio": "2023-01-01",
+                    "fecha_vencimiento": "2023-01-10",
+                    "estado_actual": "En progreso",
+                    "porcentaje": 30,
+                    "subtareas": []
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "nombre": "Tarea A2",
+            "descripcion": "Descripci\u00c3\u00b3n de Tarea A2",
+            "fecha_inicio": "2023-01-16",
+            "fecha_vencimiento": "2023-01-30",
+            "estado_actual": "No iniciado",
+            "porcentaje": 0,
+            "subtareas": []
+        },
+        {
+            "id": "10",
+            "nombre": "tareita",
+            "descripcion": "da",
+            "fecha_inicio": "",
+            "fecha_vencimiento": "",
+            "estado_actual": "en proceso",
+            "porcentaje": 50,
+            "subtareas": []
+        },
+        {
+            "id": "1.2",
+            "nombre": "la tarea 2",
+            "descripcion": "da",
+            "fecha_inicio": "",
+            "fecha_vencimiento": "",
+            "estado_actual": "",
+            "porcentaje": 60,
+            "subtareas": []
+        },
+        {
+            "id": "1.2",
+            "nombre": "la ",
+            "descripcion": "la",
+            "fecha_inicio": "",
+            "fecha_vencimiento": "",
+            "estado_actual": "terminado",
+            "porcentaje": 40,
+            "subtareas": []
+        }
+    ],
+    "2": [
+        {
+            "id": "3",
+            "nombre": "Tarea B1",
+            "descripcion": "Descripci\u00c3\u00b3n de Tarea B1",
+            "fecha_inicio": "2023-02-01",
+            "fecha_vencimiento": "2023-02-15",
+            "estado_actual": "En progreso",
+            "porcentaje": 60,
+            "subtareas": []
+        },
+        {
+            "id": "4",
+            "nombre": "Tarea B2",
+            "descripcion": "Descripci\u00c3\u00b3n de Tarea B2",
+            "fecha_inicio": "2023-02-16",
+            "fecha_vencimiento": "2023-02-28",
+            "estado_actual": "No iniciado",
+            "porcentaje": 0,
+            "subtareas": []
+        }
+    ],
+    "3": [
+        {
+            "id": "5",
+            "nombre": "Tarea C1",
+            "descripcion": "Descripci\u00c3\u00b3n de Tarea C1",
+            "fecha_inicio": "2023-03-01",
+            "fecha_vencimiento": "2023-03-15",
+            "estado_actual": "En progreso",
+            "porcentaje": 40,
+            "subtareas": []
+        },
+        {
+            "id": "6",
+            "nombre": "Tarea C2",
+            "descripcion": "Descripci\u00c3\u00b3n de Tarea C2",
+            "fecha_inicio": "2023-03-16",
+            "fecha_vencimiento": "2023-03-31",
+            "estado_actual": "No iniciado",
+            "porcentaje": 0,
+            "subtareas": []
+        }
+    ],
+    "4": [
+        {
+            "id": "7",
+            "nombre": "Tarea D1",
+            "descripcion": "Descripci\u00c3\u00b3n de Tarea D1",
+            "fecha_inicio": "2023-04-01",
+            "fecha_vencimiento": "2023-04-15",
+            "estado_actual": "En progreso",
+            "porcentaje": 70,
+            "subtareas": []
+        },
+        {
+            "id": "8",
+            "nombre": "Tarea D2",
+            "descripcion": "Descripci\u00c3\u00b3n de Tarea D2",
+            "fecha_inicio": "2023-04-16",
+            "fecha_vencimiento": "2023-04-30",
+            "estado_actual": "No iniciado",
+            "porcentaje": 0,
+            "subtareas": []
+        }
+    ],
+    "5": [
+        {
+            "id": "9",
+            "nombre": "Tarea E1",
+            "descripcion": "Descripci\u00c3\u00b3n de Tarea E1",
+            "fecha_inicio": "2023-05-01",
+            "fecha_vencimiento": "2023-05-15",
+            "estado_actual": "En progreso",
+            "porcentaje": 80,
+            "subtareas": []
+        },
+        {
+            "id": "10",
+            "nombre": "Tarea E2",
+            "descripcion": "Descripci\u00c3\u00b3n de Tarea E2",
+            "fecha_inicio": "2023-05-16",
+            "fecha_vencimiento": "2023-05-31",
+            "estado_actual": "No iniciado",
+            "porcentaje": 0,
+            "subtareas": []
+        }
+    ]
+}

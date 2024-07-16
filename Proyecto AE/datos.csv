@@ -1,0 +1,6 @@
+id,nombre,descripcion,fecha_creacion,direccion,telefono,correo,gerente,equipo_contacto
+"1,TechSolutions,""Desarrollo de software y consultoría tecnológica"",""2022-01-15"",""123 Tech Street, Ciudad Tecnológica"",""555-1234"",""contacto@techsolutions.com"",""Juan Pérez"",""Equipo A"""
+"2,Innovatech,""Innovación y tecnología avanzada"",""2023-03-22"",""456 Innovate Avenue, Centro Innovación"",""555-5678"",""info@innovatech.com"",""María López"",""Equipo B"""
+"3,DataCorp,""Servicios de análisis y gestión de datos"",""2021-11-05"",""789 Data Road, Parque Empresarial"",""555-8765"",""contact@datacorp.com"",""Carlos Martínez"",""Equipo C"""
+"4,GreenEnergy,""Soluciones energéticas sostenibles"",""2020-07-19"",""101 Green Lane, Eco Ciudad"",""555-4321"",""info@greenenergy.com"",""Ana González"",""Equipo D"""
+"5,HealthTech,""Tecnología para la salud y bienestar"",""2022-05-30"",""202 Health Boulevard, Distrito Médico"",""555-6789"",""support@healthtech.com"",""Luis Fernández"",""Equipo E"""
