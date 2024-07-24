@@ -1,7 +1,0 @@
-id,empresa_id,nombre,descripcion,fecha_inicio,fecha_vencimiento,estado_actual,gerente,equipo
-1,1,Proyecto A,"Desarrollo de una aplicación móvil","2023-01-01","2023-12-31","En progreso","Juan Pérez","Equipo A"
-2,1,Proyecto B,"Implementación de un sistema CRM","2023-02-01","2023-11-30","En progreso","Ana García","Equipo B"
-3,2,Proyecto C,"Desarrollo de una plataforma de IA","2023-03-01","2023-10-31","En progreso","Carlos Rodríguez","Equipo C"
-4,3,Proyecto D,"Análisis de grandes volúmenes de datos","2023-04-01","2023-09-30","En progreso","Laura Martínez","Equipo D"
-5,4,Proyecto E,"Implementación de energías renovables","2023-05-01","2023-08-31","En progreso","Pedro Sánchez","Equipo E"
-6,5,Proyecto F,"Desarrollo de un dispositivo médico","2023-06-01","2023-07-31","En progreso","Lucía Fernández","Equipo F"
